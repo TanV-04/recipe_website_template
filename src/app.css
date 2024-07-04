@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  font-family: 'Poppins', sans-serif;
+} 
+
+.inconsolata {
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.playwrite {
+  font-family: "Playwrite ES Deco", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.comfort {
+  font-family: "Comforter Brush", cursive;
+  font-weight: 400; 
+}
+
+.cutive {
+  font-family: "Cutive", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.cookie {
+  font-family: "Cookie", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.domine {
+  font-family: "Domine", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.eb-garamond {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
